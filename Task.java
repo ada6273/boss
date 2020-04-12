@@ -1,4 +1,3 @@
-package com.cmcc.coc.cbpsp.alipay.client;
 
 public class Task implements Executor {
 

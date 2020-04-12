@@ -1,4 +1,3 @@
-package com.cmcc.coc.cbpsp.alipay.client;
 
 import java.util.HashMap;
 import java.util.HashSet;
